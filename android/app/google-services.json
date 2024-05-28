@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "971806294877",
+    "firebase_url": "https://one-bytes-backend-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "one-bytes-backend",
+    "storage_bucket": "one-bytes-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971806294877:android:1570a0ee9786be80911eb4",
+        "android_client_info": {
+          "package_name": "com.example.new_mobile_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971806294877-0u12ggcqqo4sc3h7k4lglungnoqu6826.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.new_mobile_app",
+            "certificate_hash": "306f1c85ec739512054bcab83db0f2d9a3b78a2e"
+          }
+        },
+        {
+          "client_id": "971806294877-n0punjsod0sgcp0fkr2u8jlj1bj6pjnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATZfeqAe9X5Gk9xVbGSYTjLdHk84SiF9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971806294877-n0punjsod0sgcp0fkr2u8jlj1bj6pjnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
